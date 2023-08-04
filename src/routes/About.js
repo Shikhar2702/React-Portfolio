@@ -9,7 +9,7 @@ const About = () => {
       <Navbar />
       <Heroimg2
         heading="ABOUT"
-        text="I am a passionate software enthusiast with data structures, algorithms expertise, and web development exposure. Eager learner and problem solver."
+        text="I am a passionate software development enthusiast eager learner and problem solver."
       />
       <AboutContent />
       <Footer />

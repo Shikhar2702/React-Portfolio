@@ -7,7 +7,11 @@ import ProjectCards from "./ProjectCards";
 const Work = () => {
   return (
     <div className="Work-container">
-      <h1 className="project-heading">Projects</h1>
+      <p className="project-heading">
+        <h1>Projects</h1>
+        <br />
+        <h4>Some of my works that are an integral part of my learning.</h4>
+      </p>
       <div className="project-container">
         {WorkCardData.map((val, ind) => {
           return (

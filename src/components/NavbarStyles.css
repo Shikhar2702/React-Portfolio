@@ -26,6 +26,11 @@
     font-size :1.2rem;
     font-weight: 500;
  }
+ .nav-menu li:hover {
+     background-color: rgba(241, 204, 42, 0.873);
+     border-radius: 15px;
+     transition: background-color 0.3s ease-in-out;
+ }
  .hamburger{
     display: none;
  }

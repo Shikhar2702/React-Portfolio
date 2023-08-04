@@ -52,3 +52,11 @@
     }
     
 }
+@media screen and (max-width: 740px) {
+    .project-heading {
+        max-width: 80%;
+        margin: auto;
+        display: column;
+    }
+
+}

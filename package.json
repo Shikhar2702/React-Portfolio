@@ -1,10 +1,13 @@
 {
+  "homepage": "https://Shikhar2702.github.io/React-Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@formspree/react": "^2.4.4",
+    "@iconify-icons/mdi": "^1.2.47",
+    "@iconify-icons/simple-icons": "^1.2.62",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -42,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@iconify/react": "^4.1.1"
   }
 }

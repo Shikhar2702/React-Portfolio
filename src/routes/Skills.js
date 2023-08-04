@@ -4,12 +4,18 @@ import Footer from "../components/Footer";
 import Heroimg2 from "../components/Heroimg2";
 import PricingCards from "../components/PricingCards";
 import Work from "../components/Work";
-import Img from "../assets/Skill.avif";
+import Img from "../assets/Skills.jpg";
+import "./Skilss.css";
 const Project = () => {
   return (
     <div>
       <Navbar />
-      <Heroimg2 heading="" text="" backgroundImage={Img} />
+      <Heroimg2
+        className="hero-container"
+        heading="Skills & Projects"
+        text=""
+        backgroundImage={Img}
+      />
       <PricingCards />
       <Work />
       <Footer />

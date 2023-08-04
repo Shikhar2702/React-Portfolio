@@ -4,7 +4,6 @@ import React from "react";
 import {
   FaCopyright,
   FaDiscord,
-  FaFacebook,
   FaGithubSquare,
   FaHome,
   FaInstagram,
@@ -12,7 +11,12 @@ import {
   FaMailBulk,
   FaPhone,
   FaPortrait,
+  FaLink,
 } from "react-icons/fa";
+import { Icon } from "@iconify/react";
+import codechefIcon from "@iconify-icons/simple-icons/codechef";
+import gfgIcon from "@iconify-icons/simple-icons/geeksforgeeks";
+import leetcodeIcon from "@iconify-icons/simple-icons/leetcode";
 
 const Footer = () => {
   return (
@@ -22,7 +26,7 @@ const Footer = () => {
           <div className="location">
             <FaHome
               size={20}
-              style={{ color: "#fff", marginRight: "1.8rem" }}
+              style={{ color: "#fff", marginRight: "0.8rem" }}
             />
             <div>
               <p>Uttar Pradesh</p>
@@ -33,7 +37,7 @@ const Footer = () => {
             <h4>
               <FaPhone
                 size={20}
-                style={{ color: "#fff", marginRight: "1.8rem" }}
+                style={{ color: "#fff", marginRight: "0.8rem" }}
               />
               +91 9235815099
             </h4>
@@ -43,7 +47,7 @@ const Footer = () => {
               <h4>
                 <FaMailBulk
                   size={20}
-                  style={{ color: "#fff", marginRight: "1.8rem" }}
+                  style={{ color: "#fff", marginRight: "0.8rem" }}
                 />
                 agrawalshikhar27@gmail.com
               </h4>
@@ -52,7 +56,7 @@ const Footer = () => {
               <h4>
                 <FaPortrait
                   size={20}
-                  style={{ color: "#fff", marginRight: "1.8rem" }}
+                  style={{ color: "#fff", marginRight: "0.8rem" }}
                 />
                 Resume
               </h4>
@@ -66,13 +70,13 @@ const Footer = () => {
             Developer.
           </p>
           <div className="social">
-            <h4>Reach me :</h4>
-            <a href="https://www.facebook.com/profile.php?id=100006352754782">
-              <FaFacebook
-                size={30}
-                style={{ color: "#fff", marginRight: "1rem" }}
+            <h4>
+              <FaLink
+                size={17}
+                style={{ color: "#fff", marginRight: "0.5rem" }}
               />
-            </a>
+              Reach me:
+            </h4>
             <a href="https://www.instagram.com/shikhar02_/">
               <FaInstagram
                 size={30}
@@ -94,6 +98,37 @@ const Footer = () => {
             <a href="discordapp.com/users/797690681602080789">
               <FaDiscord
                 size={30}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+            </a>
+          </div>
+          <div>
+            <h4>
+              <FaLink
+                size={17}
+                style={{ color: "#fff", marginRight: ".5rem" }}
+              />
+              Coding Platforms:
+            </h4>
+            <a href="https://www.codechef.com/user/shikhar_27">
+              <Icon
+                icon={codechefIcon}
+                width={30}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+            </a>
+            <a href="https://leetcode.com/shikhar_27/">
+              <Icon
+                icon={leetcodeIcon}
+                width={30}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+            </a>
+
+            <a href="https://auth.geeksforgeeks.org/user/agrawalshikhar27/practice">
+              <Icon
+                icon={gfgIcon}
+                width={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>

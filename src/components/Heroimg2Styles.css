@@ -1,14 +1,15 @@
 .hero-img {
-    width: 100%;
-    background: rgba(0,0,0,0.5);
-    height: 100vh;
-    position: relative;
-    background-size: cover;
-    background-position: center;
+        width: 100%;
+        background: rgba(0,0,0,0.5);
+        height: 100vh;
+        position: relative;
+        background-size: cover;
+        background-position: center;
 }
 @media (max-width: 768px) {
     .hero-img {
-        height: 55vh;
+        height: 80vh;
+        position: relative;
         background-size: cover;
         background-position: top center;
         background-repeat: no-repeat;
@@ -17,7 +18,7 @@
 
 @media (max-width: 480px) {
     .hero-img {
-        height: 35vh;
+        height: 55vh;
         position: relative;
         background-size: cover;
         background-position: top center;
@@ -27,11 +28,12 @@
 
 @media (max-width: 360px) {
     .hero-img {
-        height: 25vh;
+        height: 50vh;
         background-size: cover;
-            background-position: top center;
-            background-repeat: no-repeat;
-        /* Further reduce the height for even smaller screens */
+        position: relative;
+        background-position: top center;
+        background-repeat: no-repeat;
+        
     }
 }
 .hero-img::before{
@@ -70,12 +72,14 @@ z-index: -1;
 }
 .hero-img h1{
     font-size: 2.4rem;
+    color: #fafbf8;
 }
 
 .hero-img p {
     font-size: 1.4rem;
     text-align:center;
     max-width: 550px;
+    color: #f9f5f5;
 }
 
 .scroll-down {
@@ -108,6 +112,6 @@ z-index: -1;
 
 .scroll-icon {
     font-size: 2rem;
-    color: #fff;
+    color: #5b0df7;
     cursor: pointer;
 }
