@@ -21,6 +21,13 @@
 .about .right{
     max-width: 800px;
 }
+.about .right p{
+text-align: center;
+    margin: 0 0 5px 35px;
+    /* justify-content: center; */
+    padding: 1rem;
+    max-width: 450px;
+}
 .right .img-container{
     display: grid;
     grid-template-columns: repeat(12, 1 fr);
@@ -79,4 +86,10 @@
         padding-top: 0;
         /* Remove padding-top for the image */
     }
+        .about .right p {
+            text-align: center;
+            margin: auto;
+            padding: 1rem;
+            max-width: 500px;
+        }
 }

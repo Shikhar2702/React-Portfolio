@@ -7,15 +7,16 @@ const AboutContent = () => {
   return (
     <div className="about">
       <div className="left">
-        <h1>Who Am I?</h1>
+        <h1>Who Am I ?</h1>
+        <br />
         <p>
-          I'm a student of a reputed engineering institute pursuing Bachelor of
-          technology in Information Technology. I always seek for opportunities
-          to enhance in the work field by contributing wholeheartedly to it.
-          Work and consistency are two most important attributes for a person to
-          do well with his/her commitments. . I believe myself to be good at
-          management and leadership also, as a community needs some anchors to
-          propel in the correct direction.
+          I am a dedicated student at a prestigious engineering institute,
+          pursuing a <b>Bachelor of Technology</b> in{" "}
+          <b>Information Technology</b>. My relentless pursuit of opportunities
+          drives me to continuously enhance my skills and contribute
+          wholeheartedly to the professional arena. I firmly believe that
+          unwavering commitment and consistent effort are the cornerstones of
+          success in any endeavor.
         </p>
         <br />
         <Link to="/contact">
@@ -28,6 +29,16 @@ const AboutContent = () => {
             <img src={IMG1} alt="img" />
           </div>
         </div>
+        <p>
+          <i>
+            "I proudly lead a community of exceptional minds who unite under the
+            banner of <b>Enigma</b> as its president.I have a strong belief in
+            my abilities as a capable manager and leader. I recognize the
+            importance of providing the necessary guidance and support to a
+            community, acting as a steady anchor to propel it in the right
+            direction. ✒️"
+          </i>
+        </p>
       </div>
     </div>
   );

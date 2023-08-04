@@ -12,6 +12,7 @@ import {
   FaPhone,
   FaPortrait,
   FaLink,
+  FaSchool,
 } from "react-icons/fa";
 import { Icon } from "@iconify/react";
 import codechefIcon from "@iconify-icons/simple-icons/codechef";
@@ -61,6 +62,13 @@ const Footer = () => {
                 Resume
               </h4>
             </a>
+            <h4>
+              <FaSchool
+                size={20}
+                style={{ color: "#fff", marginRight: "0.8rem" }}
+              />
+              ABES Engineering College
+            </h4>
           </div>
         </div>
         <div className="right">
