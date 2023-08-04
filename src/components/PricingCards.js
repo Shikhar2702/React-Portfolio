@@ -23,8 +23,8 @@ const PricingCards = () => {
           <h3>-Hands on-</h3>
           <span className="bar"></span>
           <p className="btc">Web Development</p>
+          <p>- React -</p>
           <p>- MERN -</p>
-          <p>- UI/UX -</p>
           <p>- Resopnsive designs -</p>
           <br />
           <Link to="/contact" className="btn">
