@@ -1,4 +1,4 @@
-import pro1 from "../assets/Chat.jpg";
+import pro1 from "../assets/Logo.png";
 import pro2 from "../assets/ToDo.png";
 import pro3 from "../assets/FC.png";
 
