@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.a60c5b3c.css",
+    "main.js": "/React-Portfolio/static/js/main.c592056f.js",
+    "static/media/Shikhar.png": "/React-Portfolio/static/media/Shikhar.1398840d8dca31e0c7d1.png",
+    "static/media/Logo.png": "/React-Portfolio/static/media/Logo.10c362e91876ef6a330e.png",
+    "static/media/img8.avif": "/React-Portfolio/static/media/img8.4715843d9b6b2949be26.avif",
+    "static/media/Skills.jpg": "/React-Portfolio/static/media/Skills.828489c5990c06855616.jpg",
+    "static/media/Contact.jfif": "/React-Portfolio/static/media/Contact.39076fd9b71928489cfd.jfif",
+    "static/media/ToDo.png": "/React-Portfolio/static/media/ToDo.4949aff4d63e527c3c0a.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.a60c5b3c.css.map": "/React-Portfolio/static/css/main.a60c5b3c.css.map",
+    "main.c592056f.js.map": "/React-Portfolio/static/js/main.c592056f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60c5b3c.css",
+    "static/js/main.c592056f.js"
+  ]
+}
