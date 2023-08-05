@@ -53,7 +53,7 @@ const Footer = () => {
                 agrawalshikhar27@gmail.com
               </h4>
             </a>
-            <a href="https://drive.google.com/file/d/1v6qLcCzKrMsZwjEfJKh_idv7CeFZtQ8r/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1HdaSNFI39Y_-BWZO5fPvwlLNTf5fO2HY/view">
               <h4>
                 <FaPortrait
                   size={20}
@@ -118,7 +118,7 @@ const Footer = () => {
               />
               Coding Platforms:
             </h4>
-            <a href="https://www.codechef.com/user/shikhar_27">
+            <a href="https://www.codechef.com/users/shikhar_27">
               <Icon
                 icon={codechefIcon}
                 width={30}
