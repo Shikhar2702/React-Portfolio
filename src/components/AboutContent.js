@@ -19,9 +19,17 @@ const AboutContent = () => {
           success in any endeavor.
         </p>
         <br />
-        <Link to="/contact">
-          <button className="btn">Contacts</button>
-        </Link>
+        <div display="flex">
+          <Link to="/contact">
+            <button className="btn">Contacts</button>
+          </Link>
+          <a
+            href="https://drive.google.com/file/d/1Q5OPn48NAWo6MKr7AzCCZJF9WpJuUnUI/view"
+            target="_blank"
+          >
+            <button className="btn btn-light">HIRE ME</button>
+          </a>
+        </div>
       </div>
       <div className="right">
         <div className="img-container">

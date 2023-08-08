@@ -44,7 +44,7 @@ const Footer = () => {
             </h4>
           </div>
           <div className="mail">
-            <a href="mailto:agrawalshikhar27@gmail.com">
+            <a href="mailto:agrawalshikhar27@gmail.com" target="_blank">
               <h4>
                 <FaMailBulk
                   size={20}
@@ -53,7 +53,10 @@ const Footer = () => {
                 agrawalshikhar27@gmail.com
               </h4>
             </a>
-            <a href="https://drive.google.com/file/d/1HdaSNFI39Y_-BWZO5fPvwlLNTf5fO2HY/view">
+            <a
+              href="https://drive.google.com/file/d/1Q5OPn48NAWo6MKr7AzCCZJF9WpJuUnUI/view?usp=drive_link"
+              target="_blank"
+            >
               <h4>
                 <FaPortrait
                   size={20}
@@ -85,25 +88,28 @@ const Footer = () => {
               />
               Reach me:
             </h4>
-            <a href="https://www.instagram.com/shikhar02_/">
+            <a href="https://www.instagram.com/shikhar02_/" target="_blank">
               <FaInstagram
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://www.linkedin.com/in/shikhar-agrawal-4a2313202/">
+            <a
+              href="https://www.linkedin.com/in/shikhar-agrawal-4a2313202/"
+              target="_blank"
+            >
               <FaLinkedin
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://github.com/Shikhar2702">
+            <a href="https://github.com/Shikhar2702" target="_blank">
               <FaGithubSquare
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="discordapp.com/users/797690681602080789">
+            <a href="discordapp.com/users/797690681602080789" target="_blank">
               <FaDiscord
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
@@ -118,14 +124,14 @@ const Footer = () => {
               />
               Coding Platforms:
             </h4>
-            <a href="https://www.codechef.com/users/shikhar_27">
+            <a href="https://www.codechef.com/users/shikhar_27" target="_blank">
               <Icon
                 icon={codechefIcon}
                 width={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://leetcode.com/shikhar_27/">
+            <a href="https://leetcode.com/shikhar_27/" target="_blank">
               <Icon
                 icon={leetcodeIcon}
                 width={30}
@@ -133,7 +139,10 @@ const Footer = () => {
               />
             </a>
 
-            <a href="https://auth.geeksforgeeks.org/user/agrawalshikhar27/practice">
+            <a
+              href="https://auth.geeksforgeeks.org/user/agrawalshikhar27/"
+              target="_blank"
+            >
               <Icon
                 icon={gfgIcon}
                 width={30}

@@ -12,7 +12,7 @@ const ProjectCards = (props) => {
       <div className="pro-details">
         <p>{props.text}</p>
         <div className="pro-btns">
-          <NavLink to={props.view} className="btn">
+          <NavLink to={props.view} className="btn" target="_blank">
             View
           </NavLink>
           {/* <NavLink to="url.com" className="btn"> */}
