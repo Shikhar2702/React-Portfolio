@@ -21,13 +21,13 @@ const AboutContent = () => {
         <br />
         <div display="flex">
           <Link to="/contact">
-            <button className="btn">Contacts</button>
+            <button className="btn">Connect</button>
           </Link>
           <a
             href="https://drive.google.com/file/d/1Q5OPn48NAWo6MKr7AzCCZJF9WpJuUnUI/view"
             target="_blank"
           >
-            <button className="btn btn-light">HIRE ME</button>
+            <button className="btn btn-light">My Resume</button>
           </a>
         </div>
       </div>

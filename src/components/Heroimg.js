@@ -14,9 +14,7 @@ const Heroimg = () => {
       <div className="content">
         <p>Hi, I am a Software Developer</p>
         <h1>Shikhar Agrawal</h1>
-        <p>
-          An engineering student and technical enthusiast, know about me here.
-        </p>
+        <p>An engineering student and tech enthusiast, know about me here.</p>
         <br />
         <div>
           <Link to="/skills" className="btn">
