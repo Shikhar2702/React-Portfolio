@@ -38,7 +38,7 @@ const Navbar = () => {
         </li>
         <li className="resume">
           <a
-            href="https://drive.google.com/file/d/1JrqWEkhI-r-yxKq9UFU3y9QqTBrNCfhY/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1CVqLM6zXnNXjvvO974KQ7S6TI23ijg6u/view?usp=sharing"
             target="_blank"
           >
             Resume
