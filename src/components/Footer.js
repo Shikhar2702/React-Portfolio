@@ -54,7 +54,7 @@ const Footer = () => {
               </h4>
             </a>
             <a
-              href="hhttps://drive.google.com/file/d/1q4tQ-2ow1ZILod8WpaqNkQ5bsGCs12Ub/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1q4tQ-2ow1ZILod8WpaqNkQ5bsGCs12Ub/view?usp=drive_link"
               target="_blank"
             >
               <h4>
