@@ -24,7 +24,7 @@ const AboutContent = () => {
             <button className="btn">Connect</button>
           </Link>
           <a
-            href="https://drive.google.com/file/d/1CVqLM6zXnNXjvvO974KQ7S6TI23ijg6u/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YI_Q7S3oX2sSlYnDHP3Ff5jEZf6nLOZa/view?usp=drive_link"
             target="_blank"
           >
             <button className="btn btn-light">My Resume</button>
