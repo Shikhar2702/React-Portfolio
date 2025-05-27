@@ -10,13 +10,12 @@ const AboutContent = () => {
         <h1>Who Am I ?</h1>
         <br />
         <p>
-          I am a dedicated student at a prestigious engineering institute,
-          pursuing a <b>Bachelor of Technology</b> in{" "}
-          <b>Information Technology</b>. My relentless pursuit of opportunities
-          drives me to continuously enhance my skills and contribute
-          wholeheartedly to the professional arena. I firmly believe that
-          unwavering commitment and consistent effort are the cornerstones of
-          success in any endeavor.
+          I am a passionate and results-driven <b>Software Development Engineer</b> with close to <b>2
+          years of industry experience</b> at <b>Siemens (Brightly)</b>. With a strong foundation in <b>Java</b>
+          and <b>test automation using Selenium</b>, I specialize in developing and ensuring the quality of scalable
+          software solutions. My continuous drive for growth and innovation pushes me to refine my skills and
+          contribute meaningfully to impactful projects. I believe that <b>dedication</b>, <b>curiosity</b>,
+          and <b>consistent effort</b> are key to thriving in the ever-evolving tech landscape.
         </p>
         <br />
         <div display="flex">
@@ -39,7 +38,7 @@ const AboutContent = () => {
         </div>
         <p>
           <i>
-            "I proudly lead a community of exceptional minds who unite under the
+            "I proudly led a community of exceptional minds who unite under the
             banner of <b>Enigma</b> as its president.I have a strong belief in
             my abilities as a capable manager and leader. I recognize the
             importance of providing the necessary guidance and support to a

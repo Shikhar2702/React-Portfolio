@@ -13,6 +13,7 @@ import {
   FaPortrait,
   FaLink,
   FaSchool,
+  FaBuilding
 } from "react-icons/fa";
 import { Icon } from "@iconify/react";
 import codechefIcon from "@iconify-icons/simple-icons/codechef";
@@ -72,13 +73,19 @@ const Footer = () => {
               />
               ABES Engineering College
             </h4>
+            <h4>
+                  <FaBuilding size={20} style={{ color: "#fff", marginRight: "0.8rem" }} />
+                  Brightly: A Siemens Company
+                </h4>
           </div>
         </div>
         <div className="right">
           <h4>About</h4>
           <p>
-            This is me, Shikhar Agrawal, an undergrad aspiring Software
-            Developer.
+            I am a <b>Software Engineer</b> with nearly <b>2 years of experience</b> at <b>Siemens</b>,
+            skilled in <b>Java</b>, <b>Selenium</b>, and <b>JavaScript</b>. I work across development and test
+            automation to build reliable, high-quality applications. Passionate about learning, I strive to create
+             impactful tech solutions through consistent growth and collaboration.
           </p>
           <div className="social">
             <h4>
