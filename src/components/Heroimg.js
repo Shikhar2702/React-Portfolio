@@ -12,11 +12,11 @@ const Heroimg = () => {
         <img className="into-img" src={IntroImg} alt="IntroImg" />
       </div>
       <div className="content">
-        <p>Hi, I am a Software Developer</p>
+        <p>Hi, I am a Software Developer in Test</p>
         <h1>Shikhar Agrawal</h1>
         <p>
-          A passionate Software Developer and tech enthusiast with hands-on experience in Java,
-          Selenium, and modern web technologies. Know more about my journey here.
+          A passionate Software Automation Engineer and tech enthusiast with hands-on experience in Java,
+          Selenium, and modern technologies. Know more about my journey here.
         </p>
         <br />
         <div>

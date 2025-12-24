@@ -10,13 +10,14 @@ const AboutContent = () => {
         <h1>Who Am I ?</h1>
         <br />
         <p>
-          I am a passionate and results-driven <b>Software Development Engineer</b> with close to <b>2
-          years of industry experience</b> at <b>Siemens (Brightly)</b>. With a strong foundation in <b>Java</b>
-          and <b>test automation using Selenium</b>, I specialize in developing and ensuring the quality of scalable
-          software solutions. My continuous drive for growth and innovation pushes me to refine my skills and
-          contribute meaningfully to impactful projects. I believe that <b>dedication</b>, <b>curiosity</b>,
-          and <b>consistent effort</b> are key to thriving in the ever-evolving tech landscape.
+          I am a passionate and results-driven <b>Software Development Engineer in Test</b> with solid
+          professional experience at <b>Siemens (Brightly)</b>. With a strong foundation in <b>Java</b> and
+          <b>test automation using Selenium</b>, I specialize in ensuring the quality, reliability, and scalability
+          of software solutions. Driven by continuous learning and innovation, I consistently refine my skills and
+          contribute meaningfully to high-impact projects. I believe that <b>dedication</b>, <b>curiosity</b>, and
+          <b>consistent effort</b> are key to thriving in the ever-evolving tech landscape.
         </p>
+
         <br />
         <div display="flex">
           <Link to="/contact">

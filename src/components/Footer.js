@@ -82,8 +82,8 @@ const Footer = () => {
         <div className="right">
           <h4>About</h4>
           <p>
-            I am a <b>Software Engineer</b> with nearly <b>2 years of experience</b> at <b>Siemens</b>,
-            skilled in <b>Java</b>, <b>Selenium</b>, and <b>JavaScript</b>. I work across development and test
+            I am a <b>Software Automation Engineer</b> at <b>Siemens</b>,
+            skilled in <b>Java</b>, <b>Selenium</b>, and <b>Appium</b>. I work across development and test
             automation to build reliable, high-quality applications. Passionate about learning, I strive to create
              impactful tech solutions through consistent growth and collaboration.
           </p>
